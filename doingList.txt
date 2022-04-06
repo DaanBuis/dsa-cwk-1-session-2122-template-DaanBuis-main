@@ -1,0 +1,1 @@
+DOING,18/04/2022,Requirements analysis with Client,Estrella,Perez,ANALYST,Get user to sign off initial requirements,RA

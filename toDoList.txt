@@ -1,0 +1,7 @@
+TODO,22/04/2022,Design User interface.,Bobby,Law,DESIGNER,Get user to verify initial UI,UI:UX
+TODO,29/05/2022,Create backend Database,Fred,Jones,DEVELOPER,Check with client data to be stored,DB
+TODO,12/06/2022,Complete first version of UI,Riley,Poole,DEVELOPER,Get user to verify initial UI,UI:UX
+TODO,27/05/2022,Analyse data storage needs,Melvine,Doo,ANALYST,Get Client sign off on Data Spec,Data
+TODO,22/06/2022,Create first draft of HTML and CSS front end,Hercule,Poirot,DEVELOPER,Show Analyst and Designer prior to client,HTML:CSS
+TODO,18/04/2022,Create CSS and colour palette,Herbert,Lom,DESIGNER,Get user to verify initial CSS and colour palette,CSS
+TODO,22/05/2022,Create JavaScript,Velma,Dinkley,DEVELOPER,Get code verification from Developers,JavaScript
